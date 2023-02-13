@@ -10,6 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.4.1",
+    "cypress-multi-reporters": "^1.6.2",
+    "mocha-junit-reporter": "^2.2.0",
     "typescript": "^4.9.5"
   },
   "dependencies": {
